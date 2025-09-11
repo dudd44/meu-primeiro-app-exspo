@@ -1,0 +1,13 @@
+Comandos para verificarpacotes 
+1- node --version
+2- npm --version
+3- expo --version 
+
+***Comando para iniciar o projeto***
+1- expo init
+
+*** comandos para rodar o projeto ***
+1- npx expo start 
+
+***Limpar terminal***
+1- clear
