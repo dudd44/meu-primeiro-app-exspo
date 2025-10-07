@@ -1000,9 +1000,9 @@
     resolve-from "^5.0.0"
 
 "@expo/metro-runtime@*", "@expo/metro-runtime@~6.1.1":
-  version "6.1.2"
-  resolved "https://registry.npmjs.org/@expo/metro-runtime/-/metro-runtime-6.1.2.tgz"
-  integrity sha512-nvM+Qv45QH7pmYvP8JB1G8JpScrWND3KrMA6ZKe62cwwNiX/BjHU28Ear0v/4bQWXlOY0mv6B8CDIm8JxXde9g==
+  version "6.1.1"
+  resolved "https://registry.npmjs.org/@expo/metro-runtime/-/metro-runtime-6.1.1.tgz"
+  integrity sha512-H5ZFj7nisMJ5a4joMGpF4Xt/m4hWDAroMNv5ld/2iniWoXLvNt+YQpMdyecu/lHpydKAjHzXcyE08hTGgURaIA==
   dependencies:
     anser "^1.4.9"
     pretty-format "^29.7.0"
